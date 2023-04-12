@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/anilandanu.github.io/static/css/main.e33a4e4d.css",
+    "main.js": "/anilandanu.github.io/static/js/main.c47ff75e.js",
+    "static/media/floral.png": "/anilandanu.github.io/static/media/floral.3d3475f77da65d911c1a.png",
+    "static/media/hands.jpg": "/anilandanu.github.io/static/media/hands.68601a00b98d2e0c204d.jpg",
+    "static/media/groom.jpg": "/anilandanu.github.io/static/media/groom.e6dc285be1c6c3d5370f.jpg",
+    "static/media/invitation.jpg": "/anilandanu.github.io/static/media/invitation.20e9d33b61ac4496e9a6.jpg",
+    "static/media/rings.jpg": "/anilandanu.github.io/static/media/rings.88489d1a63ad12c4ea07.jpg",
+    "static/media/bride.jpg": "/anilandanu.github.io/static/media/bride.917602d961f64f488a41.jpg",
+    "index.html": "/anilandanu.github.io/index.html",
+    "main.e33a4e4d.css.map": "/anilandanu.github.io/static/css/main.e33a4e4d.css.map",
+    "main.c47ff75e.js.map": "/anilandanu.github.io/static/js/main.c47ff75e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33a4e4d.css",
+    "static/js/main.c47ff75e.js"
+  ]
+}
