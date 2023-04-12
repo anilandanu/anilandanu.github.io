@@ -1,0 +1,49 @@
+.engagement{
+    margin: 20px 20px 0px 20px !important;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 30px;
+}
+.engagement_text{
+    flex: 2;
+}
+.engagement_text h2{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Allura;
+    font-size: 70px;
+    color: #317773
+}
+.engagement_text p{
+    text-align: center;
+    font-size: 15px;
+    font-family: Raleway;
+    font-weight: 300;
+    margin: 10px 20px 0 20px;
+}
+.engagement_image{
+    flex: 1;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px){
+    .engagement{
+        flex-direction: column-reverse;
+    }
+    .engagement_text{
+        flex: 1;
+    }
+    .engagement_text h2{
+        margin-top: 20px;
+        text-align: center;
+        font-family: Allura;
+        font-size: 60px;
+    }
+    .engagement_text p{
+        text-align: center;
+        font-size: 20px;
+        font-family: Raleway;
+        font-weight: 300;
+        margin: 10px 5px 20px 5px;
+    }
+}
