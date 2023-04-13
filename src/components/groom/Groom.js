@@ -16,7 +16,7 @@ function Groom() {
       <div className='groom_text'>
         <h1>Groom</h1>
         <h2>Parusubotu Anil</h2>
-        <h3>Youngest Son of Sri Murali Krishna and Smt. Nirmala of Sheelanagar, Visakhapatnam.</h3>
+        <h3>Youngest Son of Sri Murali Krishna and <br/>Smt. Nirmala of Sheelanagar <br/>Visakhapatnam.</h3>
       </div>
     </div>
   )

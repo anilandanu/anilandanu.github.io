@@ -9,7 +9,7 @@ function Proposal() {
       <div className="proposal_bg">
         <div className='proposal_text'>
             <h2>Proposal</h2>
-            <p>March 24 2019 we just realised and ought to be together forever.</p>
+            <p>March 24, 2019 we just realised and ought to be together forever.</p>
         </div>
         <div className='proposal_image'>
             <img src={ProposalImage} alt="" />

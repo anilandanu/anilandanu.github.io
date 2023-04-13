@@ -16,7 +16,7 @@ function Bride() {
       <div className='bride_text'>
         <h1>Bride</h1>
         <h2>Reddy Anweshita</h2>
-        <h3>Daughter of Sri Appalanaidu and Smt. Padma of Kurmanapalem, Visakhapatnam.</h3>
+        <h3>Daughter of Sri Appalanaidu and <br/>Smt. Padma of Kurmanapalem <br/>Visakhapatnam.</h3>
       </div>
       {/* <div className='bride_box'>
       <div className='bride_text'>

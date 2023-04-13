@@ -12,7 +12,7 @@ function Engagement() {
         </div>
         <div className='engagement_text'>
           <h2>Engagement</h2>
-          <p>After a lot of struggles jan 28 we were finally accepted by our elders and decided to tie the knots on june 7 2023.</p>
+          <p>After a lot of struggles, on jan 28 we were finally accepted by our elders and decided to tie the knots on june 7th.</p>
         </div>
       </div>  
     </div>

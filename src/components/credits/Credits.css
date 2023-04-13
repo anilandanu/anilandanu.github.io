@@ -1,0 +1,23 @@
+@media screen and (max-width:600px){
+    .credits{
+        width: 100%;
+    }
+    .credits_bg{
+        height: 400px;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+    }
+    .credits_bg h1{
+        font-family: Love light;
+        position: absolute;
+        font-size: 120px;
+        font-weight: 300;
+        position: absolute;
+        top: 125px;
+        left: 40%;
+        color: #600f44;
+
+    }
+}

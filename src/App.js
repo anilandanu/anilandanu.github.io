@@ -6,6 +6,7 @@ import Groom from './components/groom/Groom'
 import Story from './components/story/Story'
 import Plan from './components/plan/Plan'
 import Invite from './components/invite/Invite'
+import Credits from './components/credits/Credits';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Date />
       <Plan />
       <Invite />
+      <Credits />
     </div>
   );
 }

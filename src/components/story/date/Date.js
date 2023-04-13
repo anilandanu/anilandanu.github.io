@@ -12,7 +12,7 @@ function Date() {
           </div>
           <div className='second_text'>
             <h2>First date</h2>
-            <p>It's not an actual date but that was the first time we went out as a couple with friends along with the moon on the nights of April 2019.</p>
+            <p>It's not an actual date but, that was the first time we went out as a duo, with friends along the moon side on the nights of April 2019.</p>
           </div>
         </div>
     </div>
