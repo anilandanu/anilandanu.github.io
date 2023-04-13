@@ -4,10 +4,11 @@ import Meet from './meet/Meet'
 import Date from './date/Date'
 import Proposal from './proposal/Proposal'
 import Engagement from './engagement/Engagement'
+import Peak from '../../assets/images/peak.jpg'
 
 function Story() {
   return (
-    <div className='story'>
+    <div className='story' style={{backgroundImage: `url("${Peak}")`}}>
         <div className='story_width'>
             <div className='story_header'>
                 <h1>Our Story</h1>

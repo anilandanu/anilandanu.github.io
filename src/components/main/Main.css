@@ -38,7 +38,8 @@
     }
     
     .main_text_m h1{
-        font-family: Allura;
+        font-family: Dancing Script;
+        font-weight: 700;
         font-size: 70px;
         color: #600f44;
     }
@@ -100,7 +101,7 @@
     }
     
     .main_text h1{
-        font-family: Allura;
+        font-family: Dancing Script;
         font-size: 130px;
         color: #600f44;
     }
