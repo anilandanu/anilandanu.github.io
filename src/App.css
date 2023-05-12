@@ -1,0 +1,19 @@
+.app{
+    width: 100%;
+    background-color: black;
+}
+
+.app_child{
+    width: 600px;
+    margin: auto;
+}
+
+@media screen and (max-width: 600px){
+    .app_child{
+        width: 100%
+    } 
+    .app{
+        background-color: initial;
+    }
+
+}

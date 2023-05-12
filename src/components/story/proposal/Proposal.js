@@ -5,7 +5,7 @@ import Propbg from '../../../assets/images/proposalbg.jpg'
 
 function Proposal() {
   return (
-    <div className='proposal' style={{backgroundImage: `url("${Propbg}")`}}>
+    <div className='proposal'>
       <div className="proposal_bg">
         <div className='proposal_text'>
             <h2>Proposal</h2>
@@ -18,5 +18,7 @@ function Proposal() {
     </div>
   )
 }
+
+// style={{backgroundImage: `url("${Propbg}")`}}
 
 export default Proposal

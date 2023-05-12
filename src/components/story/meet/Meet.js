@@ -6,7 +6,7 @@ import Meetbg from '../../../assets/images/meetbg.jpg'
 
 function Meet() {
   return (
-    <div className='meet' style={{backgroundImage: `url("${Meetbg}")`}}>
+    <div className='meet' >
         <div className="meet_bg">
           <div className='meet_text'>
               <h2>First meet</h2>
@@ -19,5 +19,7 @@ function Meet() {
     </div>
   )
 }
+
+// style={{backgroundImage: `url("${Meetbg}")`}}
 
 export default Meet

@@ -10,29 +10,13 @@ function Main() {
         <div className='main_image'>
             <div className='main_text'>
                 <p>THE WEDDING OF</p>
-                <h1><AnimatedText 
-                  animationType="throw" 
-                  duration={1.2}>
-                    Anil  & Anu
-                </AnimatedText></h1>
+                <h1>Anil  & Anu</h1>
             </div>
             <div className='main_text_m'>
                 <p>THE WEDDING OF</p>
-                <h1><AnimatedText 
-                  animationType="throw" 
-                  duration={1.2}>
-                    Anil
-                </AnimatedText></h1>
-                <h1><AnimatedText 
-                  animationType="throw" 
-                  duration={1.2}>
-                    &
-                </AnimatedText></h1>
-                <h1><AnimatedText 
-                  animationType="throw" 
-                  duration={1.2}>
-                    Anweshita
-                </AnimatedText></h1>
+                <h1>Anil</h1>
+                <h1>&</h1>
+                <h1>Anweshita</h1>
             </div>
             <div className='floral_image' style={{backgroundImage: `url("${Floral}")`}}>
             </div>

@@ -5,7 +5,7 @@ import Engagementbg from '../../../assets/images/engagementbg.jpg'
 
 function Engagement() {
   return (
-    <div className='engagement' style={{backgroundImage: `url("${Engagementbg}")`}}>
+    <div className='engagement' >
       <div className="engagement_bg">
         <div className='engagement_image'>
           <img src={EngImage} alt="" />
@@ -18,5 +18,8 @@ function Engagement() {
     </div>
   )
 }
+
+
+// style={{backgroundImage: `url("${Engagementbg}")`}}
 
 export default Engagement

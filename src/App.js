@@ -11,14 +11,16 @@ import Credits from './components/credits/Credits';
 function App() {
   return (
     <div className="app">
-      <Main />
-      <Groom />
-      <Bride />
-      <Story />
-      <Date />
-      <Plan />
-      <Invite />
-      <Credits />
+      <div className="app_child">
+        <Main />
+        <Groom />
+        <Bride />
+        <Story />
+        <Date />
+        <Plan />
+        <Invite />                            
+        <Credits />
+      </div>
     </div>
   );
 }

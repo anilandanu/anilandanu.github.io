@@ -5,7 +5,7 @@ import Secondbg from '../../../assets/images/secondbg.jpg'
 
 function Date() {
   return (
-    <div className='second' style={{backgroundImage: `url("${Secondbg}")`}}>
+    <div className='second'>
       <div className="second_bg">
           <div className='second_image'>
             <img src={DateImage} alt="" />
@@ -18,5 +18,7 @@ function Date() {
     </div>
   )
 }
+
+// style={{backgroundImage: `url("${Secondbg}")`}}
 
 export default Date

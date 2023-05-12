@@ -1,4 +1,58 @@
 
+.date{
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    position: relative;
+    background-position: top left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.date_image{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.date_text{
+   width: 80%;
+   height: 25%;
+   background-color: #E2D1F9;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin: auto;
+   border-radius: 50px;
+   margin-bottom: 10px;
+}
+
+.date_text h3{
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 12px;
+    color: #600f44;
+    padding-top: 15px;
+}
+
+.date_text h1{
+    font-size: 50px;
+    font-family: Dancing Script;
+    font-weight: 700;
+    color: #600f44;
+    
+}
+
+.date_text p{
+    font-size: 10px;
+    font-family: Raleway;
+    font-weight: 600;
+    word-spacing: 20px;
+    color: #600f44;
+}
 
 @media screen and (max-width:600px) {
     .date{
@@ -6,10 +60,9 @@
         height: 40vh;
         text-align: center;
         position: relative;
-        background-position: center;
-        background-size: contain;
+        background-position: top left;
+        background-size: cover;
         background-repeat: no-repeat;
-        margin-top: 20px;
     }
     
     .date_text{
@@ -33,7 +86,7 @@
     }
     
     .date_text h1{
-        font-size: 50px;
+        font-size: 40px;
         font-family: Dancing Script;
         font-weight: 700;
         color: #600f44;

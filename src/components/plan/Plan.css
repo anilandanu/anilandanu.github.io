@@ -1,3 +1,115 @@
+.plan{
+    width: 100%;
+    position: relative;
+    padding-bottom: 30px;
+    background-size: cover;
+    background-position: center;
+}
+.plan_text{
+    padding-top: 30px;
+}
+.plan_text h3{
+    font-size: 30px;
+    font-family: Raleway;
+    font-weight: 300;
+    text-align: center;
+    color: #600f44;
+    padding: 5px 0;
+    background-color: rgba(255, 255, 255, 0.88);
+}
+.ceremony{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.88);
+}
+
+.ceremony h1{
+    font-family: Dancing Script;
+    font-size: 50px;
+    padding-top: 20px;
+    text-align: center;
+    color: #600f44;
+}
+.ceremony h2{
+    font-family: Raleway;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+}
+.ceremony h3{
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: #600f44;
+}
+.ceremony h4{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Raleway;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 20px;
+}
+.reception{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.88);
+}
+.reception h1{
+    font-family: Dancing Script;
+    font-size: 50px;
+    padding-top: 20px;
+    text-align: center;
+    color: #600f44;
+}
+.reception h2{
+    font-family: Raleway;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+}
+.reception h3{
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: #600f44;
+}
+.reception h4{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Raleway;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 20px;
+}
+.knot{
+    width: 100%;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.knot_bg{
+    width: 80%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.88);
+    margin: auto;
+}
+.knot_image{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+}
 
 @media screen and (max-width:600px){
     .plan{
@@ -6,7 +118,6 @@
         padding-bottom: 30px;
         background-size: cover;
         background-position: center;
-        margin-top: 30px;
     }
     .plan_text{
         padding-top: 30px;

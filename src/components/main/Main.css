@@ -102,13 +102,13 @@
     
     .main_text h1{
         font-family: Dancing Script;
-        font-size: 130px;
+        font-size: 100px;
         color: #600f44;
     }
     
     .floral_image{
-        height: 40%;
-        width: 50%;
+        height: 35%;
+        width: 550px;
         position: absolute;
         margin: auto;
         bottom: 0;

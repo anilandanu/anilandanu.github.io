@@ -1,15 +1,16 @@
 .meet{
-    margin: 20px 20px 0px 0px !important;
+    margin: 20px 60px 0px 0px ;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-size: cover;
     background-position: center;
     border-radius: 0px 100px 100px 0;
+    box-shadow: 5px 5px 20px black;
 }
 .meet_bg{
     width: 100%;
     height: 100%;
-    background-color: rgba(255, 255, 255, 0.775);
+    background-color: rgba(255, 255, 255, 0.929);
     border-radius: 0px 100px 100px 0;
 }
 .meet_text{
@@ -26,7 +27,7 @@
     text-align: center;
     font-size: 15px;
     font-weight: 300;
-    margin: 10px 20px 0 20px;
+    margin: 10px 20px 20px 20px;
 }
 .meet_image{
     flex: 1;
@@ -35,6 +36,7 @@
 
 @media screen and (max-width: 600px){
     .meet{
+        margin: 20px 40px 0px 0px;
         flex-direction: column;
     }
   
