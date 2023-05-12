@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.21f6b3cb.css",
-    "main.js": "/static/js/main.827897f4.js",
+    "main.css": "/static/css/main.4423125e.css",
+    "main.js": "/static/js/main.e208d995.js",
     "static/media/lines.png": "/static/media/lines.5421fbd5fedfab5547b4.png",
+    "static/media/peak.jpg": "/static/media/peak.94a8431afb6fd246f213.jpg",
     "static/media/floral.png": "/static/media/floral.3d3475f77da65d911c1a.png",
     "static/media/couple.png": "/static/media/couple.520e6c6da34e68a9820f.png",
     "static/media/proposalbg.jpg": "/static/media/proposalbg.26dc83a0d92f9802d2d7.jpg",
     "static/media/secondbg.jpg": "/static/media/secondbg.7437d51249265ef8cfff.jpg",
     "static/media/groom.jpg": "/static/media/groom.e6dc285be1c6c3d5370f.jpg",
+    "static/media/creditsbg.png": "/static/media/creditsbg.de462ea6891e7017de2f.png",
     "static/media/meetbg.jpg": "/static/media/meetbg.4420b4a2dacf005ee760.jpg",
     "static/media/planbg.jpg": "/static/media/planbg.96c092c4edb5a11c8fc6.jpg",
     "static/media/engagementbg.jpg": "/static/media/engagementbg.ed66f69b227d8497fb06.jpg",
     "static/media/knot.png": "/static/media/knot.6ead29753cd68f79ab6f.png",
-    "static/media/creditsbg.png": "/static/media/creditsbg.d081c9e40e4e83555d1e.png",
-    "static/media/peak.jpg": "/static/media/peak.c23feb4e6b1aa278bcc6.jpg",
     "static/media/invitation.jpg": "/static/media/invitation.20e9d33b61ac4496e9a6.jpg",
     "static/media/rings.jpg": "/static/media/rings.88489d1a63ad12c4ea07.jpg",
     "static/media/bride.jpg": "/static/media/bride.917602d961f64f488a41.jpg",
+    "static/media/dateImage.jpg": "/static/media/dateImage.49907bd718ac9a4d2cfe.jpg",
     "index.html": "/index.html",
-    "main.21f6b3cb.css.map": "/static/css/main.21f6b3cb.css.map",
-    "main.827897f4.js.map": "/static/js/main.827897f4.js.map"
+    "main.4423125e.css.map": "/static/css/main.4423125e.css.map",
+    "main.e208d995.js.map": "/static/js/main.e208d995.js.map"
   },
   "entrypoints": [
-    "static/css/main.21f6b3cb.css",
-    "static/js/main.827897f4.js"
+    "static/css/main.4423125e.css",
+    "static/js/main.e208d995.js"
   ]
 }
