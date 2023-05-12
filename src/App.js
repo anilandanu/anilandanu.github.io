@@ -7,6 +7,7 @@ import Story from './components/story/Story'
 import Plan from './components/plan/Plan'
 import Invite from './components/invite/Invite'
 import Credits from './components/credits/Credits';
+import Build from './components/Build/Build';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Plan />
         <Invite />                            
         <Credits />
+        <Build />
       </div>
     </div>
   );

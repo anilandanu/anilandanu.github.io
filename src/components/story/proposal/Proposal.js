@@ -1,7 +1,6 @@
 import React from 'react'
 import './Proposal.css'
 import ProposalImage from '../../../assets/images/proposal.png'
-import Propbg from '../../../assets/images/proposalbg.jpg'
 
 function Proposal() {
   return (

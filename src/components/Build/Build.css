@@ -1,0 +1,13 @@
+.build {
+    color: White;
+    text-align: end;
+    font-size: 10px;
+    padding: 20px 10px 20px 0;
+}
+
+@media screen and (max-width: 600px){
+    .build{
+        color: black;
+        padding: 10px 10px 10px 0;
+    }
+}

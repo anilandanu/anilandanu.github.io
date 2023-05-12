@@ -1,7 +1,6 @@
 import React from 'react'
 import './Meet.css'
 import MeetImage from '../../../assets/images/meet.png'
-import Meetbg from '../../../assets/images/meetbg.jpg'
 
 
 function Meet() {

@@ -1,7 +1,6 @@
 import React from 'react'
 import './Date.css'
 import DateImage from '../../../assets/images/date.png'
-import Secondbg from '../../../assets/images/secondbg.jpg'
 
 function Date() {
   return (

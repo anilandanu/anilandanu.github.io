@@ -1,7 +1,7 @@
 import React from 'react'
 import './Engagement.css'
 import EngImage from '../../../assets/images/engagement.png'
-import Engagementbg from '../../../assets/images/engagementbg.jpg'
+
 
 function Engagement() {
   return (

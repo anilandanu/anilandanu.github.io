@@ -1,16 +1,18 @@
 .app{
     width: 100%;
-    background-color: black;
+    background-color: rgba(142, 68, 68, 0.605);
 }
 
 .app_child{
     width: 600px;
     margin: auto;
+    box-shadow: 0px 0px 30px 0px black;
 }
 
 @media screen and (max-width: 600px){
     .app_child{
-        width: 100%
+        width: 100%;
+        box-shadow: 0px 0px 0px 0px;
     } 
     .app{
         background-color: initial;
