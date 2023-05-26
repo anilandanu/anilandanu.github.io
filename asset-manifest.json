@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6336d10.css",
-    "main.js": "/static/js/main.a0abb3cd.js",
+    "main.css": "/static/css/main.1e963301.css",
+    "main.js": "/static/js/main.703d2678.js",
+    "static/media/couple.jpg": "/static/media/couple.c4e78ff91ab92cdcb24d.jpg",
+    "static/media/bride.jpg": "/static/media/bride.6e2d4d9bc55ed75232f2.jpg",
     "static/media/peak.jpg": "/static/media/peak.94a8431afb6fd246f213.jpg",
     "static/media/floral.png": "/static/media/floral.3d3475f77da65d911c1a.png",
     "static/media/creditsbg.png": "/static/media/creditsbg.de462ea6891e7017de2f.png",
     "static/media/planbg.jpg": "/static/media/planbg.96c092c4edb5a11c8fc6.jpg",
     "static/media/lines.png": "/static/media/lines.61f833cd5dce90fd10c4.png",
     "static/media/knot.png": "/static/media/knot.6ead29753cd68f79ab6f.png",
-    "static/media/couple.png": "/static/media/couple.ac4516248fd26f8b36b1.png",
     "static/media/invitation.jpg": "/static/media/invitation.20e9d33b61ac4496e9a6.jpg",
     "static/media/rings.jpg": "/static/media/rings.88489d1a63ad12c4ea07.jpg",
     "static/media/dateImage.jpg": "/static/media/dateImage.49907bd718ac9a4d2cfe.jpg",
-    "static/media/bride.jpg": "/static/media/bride.86a8096d01c99d715aaa.jpg",
     "static/media/groom.jpg": "/static/media/groom.c5f88aa86458caf2f6a8.jpg",
     "index.html": "/index.html",
-    "main.b6336d10.css.map": "/static/css/main.b6336d10.css.map",
-    "main.a0abb3cd.js.map": "/static/js/main.a0abb3cd.js.map"
+    "main.1e963301.css.map": "/static/css/main.1e963301.css.map",
+    "main.703d2678.js.map": "/static/js/main.703d2678.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6336d10.css",
-    "static/js/main.a0abb3cd.js"
+    "static/css/main.1e963301.css",
+    "static/js/main.703d2678.js"
   ]
 }
