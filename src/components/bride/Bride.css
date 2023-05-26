@@ -28,7 +28,7 @@
     position: absolute;
     top: 20px;
     left: 60px;
-    background-position: top;
+    background-position: left;
     background-size: cover;
 }
 .bride_text{
@@ -97,7 +97,7 @@
         position: absolute;
         top: 60px;
         left: 60px;
-        background-position: top;
+        background-position: left;
         background-size: cover;
     }
     .bride_text{
